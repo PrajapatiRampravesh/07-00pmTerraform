@@ -1,0 +1,13 @@
+# Ignore Terraform working directory
+
+**/.terraform/
+
+# Ignore Terraform state files
+
+*.tfstate
+*.tfstate.*
+
+# Ignore local variable files
+
+*.tfvars
+*.tfvars.json
