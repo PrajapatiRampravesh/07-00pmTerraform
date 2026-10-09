@@ -11,3 +11,8 @@
 
 *.tfvars
 *.tfvars.json
+#terraform lock file
+.terraform.lock.hcl
+
+#documents
+*.doc
